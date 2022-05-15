@@ -18,7 +18,7 @@ Today hackers represent the best trained human team to solve all kinds of techno
 
 For this reason, the [AI4HACKING](https://ai4hacking.com) project will release a version of its software solution to implement solutions to AI problems. We want you to achieve the long-awaited freedom in the analytical field, we want you to benefit from the knowledge we have achieved. [AI4HACKING](https://ai4hacking.com)’s free solution covers all the necessary aspects to bring your project to production, with a guarantee of success.
 
-In this way, we hope to give back to society a part of everything it has given us. If you are interested in obtaining the solution, stay connected to us 💞️, the release date will be June 1, 2022, we hope to have you as a consumer of our free solution, remember that it is free, just download it from our Github repository.
+In this way, we hope to give back to society a part of everything it has given us. If you are interested in obtaining the solution, stay connected to us 💞️, the release date will be June 1, 2022, we hope to have you as a consumer of our free solution, remember that it is free, just download it from our [Github repository](https://github.com/ai4hacking/freeai4hacking).
 
 <!---
 ai4hacking/ai4hacking is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
